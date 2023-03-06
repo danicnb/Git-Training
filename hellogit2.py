@@ -22,6 +22,8 @@ print("Hola")
 4
 5
 2
+print("Mitad")
+
 3
 4
 5
