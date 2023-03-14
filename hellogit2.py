@@ -1,4 +1,4 @@
-print("Hola")
+print("1")
 2
 3
 4
@@ -22,7 +22,7 @@ print("Hola")
 4
 5
 2
-print("Mitad")
+print("2")
 
 3
 4
@@ -35,4 +35,4 @@ print("Mitad")
 3
 4
 5
-print("Adios")
+print("3")
